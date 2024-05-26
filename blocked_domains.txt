@@ -1,0 +1,2 @@
+0.0.0.0 gazitv.com
+0.0.0.0 somoynews.tv
