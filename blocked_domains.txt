@@ -16,3 +16,4 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 gazitv.com
 0.0.0.0 somoynews.tv
+0.0.0.0 btv.gov.bd
